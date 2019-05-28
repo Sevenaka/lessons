@@ -13,3 +13,5 @@ console.log(second);
 
 let answer = prompt("Есть ли вам 18?", "Да");
 console.log(typeof(null));
+
+console.log(1);
